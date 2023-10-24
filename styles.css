@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 40px;
+    background-color: #F0E68C;
+}
+
+header {
+    background-color: #8B4513;
+    padding: 10px 0;
+    color: white;
+}
+
+img#jimmy-image {
+    width: 50%;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+p#fanCountDisplay {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
